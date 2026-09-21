@@ -1,0 +1,7 @@
+{
+  "name": "FinPulse Mobile Expense Tracker",
+  "description": "A mobile personal finance application with user authentication, expense logging with categories and timestamps, interactive spending analytics charts, CSV export, budget tracking, and settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
